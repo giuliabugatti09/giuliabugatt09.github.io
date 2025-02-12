@@ -1493,7 +1493,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #about {
-	background: ##E7F3FF;
+	background: #E7F3FF;
 	padding-top: 12rem;
 	padding-bottom: 15rem;
 }
@@ -2686,7 +2686,7 @@ footer .copyright span:last-child::after {
 	width: 6rem;
 	line-height: 6.6rem;
 	text-align: center;
-	background: #0000DD
+	background: #0000DD;
 	text-align: center;
 	text-transform: uppercase;
 	-moz-transition: all 0.3s ease-in-out;
