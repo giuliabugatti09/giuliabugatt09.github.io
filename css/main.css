@@ -1493,7 +1493,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #about {
-	background: #FFFFFF;
+	background: ##E7F3FF;
 	padding-top: 12rem;
 	padding-bottom: 15rem;
 }
@@ -2125,7 +2125,7 @@ header .logo a {
 	color: white;
 }
 #services .section-intro h5 {
-	color: #0000DD		;
+	color: #11111		;
 }
 #services .section-intro p {
 	color: rgba(255, 255, 255, 0.7);
@@ -2370,7 +2370,7 @@ header .logo a {
 	color: #0000DD		;
 }
 #contact .section-intro p {
-	color: rgba(255, 255, 255, 0.7);
+	color: black;
 }
 
 /* contact form */
@@ -2619,8 +2619,7 @@ footer .social {
 footer .footer-social {
 	display: inline-block;
 	font-size: 2.1rem;
-	margin: 0;
-	padding: 0;
+	margin: 10px;
 	position: relative;
 	top: -.3rem;
 }
@@ -2688,7 +2687,6 @@ footer .copyright span:last-child::after {
 	line-height: 6.6rem;
 	text-align: center;
 	background: #0000DD
-	color: #FFFFFF;
 	text-align: center;
 	text-transform: uppercase;
 	-moz-transition: all 0.3s ease-in-out;
