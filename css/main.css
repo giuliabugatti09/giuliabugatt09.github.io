@@ -71,7 +71,7 @@ html, body {
 }
 body {
 	background: #151515;
-	font-family: "roboto-regular", serif;
+	font-family: "nunito-regular", serif;
 	font-size: 1.7rem;
 	line-height: 3rem;
 	color: #6e6e6e;
@@ -153,7 +153,7 @@ p img {
 	margin: 0;
 }
 p.lead {
-	font-family: "roboto-regular", serif;
+	font-family: "nunito-regular", serif;
 	font-size: 2rem;
 	line-height: 1.8;
 	color: #888888;
@@ -170,10 +170,10 @@ em, i, strong, b {
 	font-weight: normal;
 }
 em, i {
-	font-family: "roboto-italic", serif;
+	font-family: "nunito-italic", serif;
 }
 strong, b {
-	font-family: "roboto-bold", serif;
+	font-family: "nunito-bold", serif;
 }
 small {
 	font-size: 1.2rem;
@@ -323,7 +323,7 @@ table {
 	border-width: 0;
 	width: 100%;
 	max-width: 100%;
-	font-family: "roboto-regular", sans-serif;
+	font-family: "nunito-regular", sans-serif;
 }
 th, td {
 	padding: 1.5rem 3rem;
